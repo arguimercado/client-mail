@@ -3,7 +3,7 @@
 export const elements = [
     {
         id: "1",
-        name: "Inbox",
+        name: "Folders",
         children: [
             {
                 id: "2",
